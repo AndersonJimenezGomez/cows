@@ -24,9 +24,14 @@ As you can see on this folder, we have 2 folders: dataset_by_student and Pool, b
 |ColoradaGrande |its skin is so similar to ‘Colorada’ the difference is ‘ColoradaGrande’ is bigger than ‘Colorada’
 |OtraColorada |It’s a little bit confuse to see the difference between Colorada and OtraColorada, but OtraColorada is slightly lightlier.|
 
+
+
+
  **Observation:** 
  
  It is necessary to clarify that the difference between OtraColorada and Colorada are so difficult to detect if the image was taken from far away. So, what we did in those cases was make a tracking with the another images to detect is the instance it was Colorada or OtraColorada, unfortunately, it wasn’t possilbe in all cases, then we was sure to not repeat the label in those especific cases where the tracking was impossible.
+ 
+ 
 
 
 
@@ -52,7 +57,13 @@ As you can see on this folder, we have 2 folders: dataset_by_student and Pool, b
 |TOTAL|100%|2023|-----------|
 
 
+
+
+
 ### Pool
+
+
+
 
 
 |POOL|Percentage|Number of images|Targeted File|
@@ -61,6 +72,9 @@ As you can see on this folder, we have 2 folders: dataset_by_student and Pool, b
 |Train|76.44%|1006|all_tables_train.json
 |Validation|8.5%|112|all_tables_val.json
 |----------|100%|1311|----------|
+
+
+
 
 
 
