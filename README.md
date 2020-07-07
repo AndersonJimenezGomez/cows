@@ -3,17 +3,10 @@
 As you can see on this folder, we have 2 folders: dataset_by_student and Pool, both contains the same number of images and the same number of targets. but they have different distributions and are splitted in different ways.
 
 
-## Insert here image 
+
 ![eo](assets/target.jpg)
 
 
-<img src = "https://github.com/AndersonJimenezGomez/cows/blob/master/target_.jpg" alt ="not found">
-
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-
-![alt text](https://github.com/anjimenez432@gmail.com/cows/blob/master/assets/target_cows.jpgraw=true)
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
 | Target        | Observations           |
