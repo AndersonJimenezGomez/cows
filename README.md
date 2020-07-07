@@ -8,6 +8,8 @@ As you can see on this folder, we have 2 folders: dataset_by_student and Pool, b
 
 
 
+## Cows Description
+
 
 | Target        | Observations           |
 | ------------- |:-------------:| 
@@ -32,7 +34,7 @@ As you can see on this folder, we have 2 folders: dataset_by_student and Pool, b
 
 
 
-### dataset_by_labeller
+## dataset_by_labeller
 
 | Student | Percentage | Number of images | Targeted File|
 |---------|------------|------------------|--------------|
@@ -57,7 +59,7 @@ As you can see on this folder, we have 2 folders: dataset_by_student and Pool, b
 
 
 
-### Pool
+## Pool
 
 
 
