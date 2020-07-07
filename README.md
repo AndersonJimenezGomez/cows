@@ -4,7 +4,7 @@ As you can see on this folder, we have 2 folders: dataset_by_student and Pool, b
 
 
 ## Insert here image 
-![eo]("assets/target.jpg")
+![eo](assets/target.jpg)
 
 
 <img src = "https://github.com/AndersonJimenezGomez/cows/blob/master/target_.jpg" alt ="not found">
