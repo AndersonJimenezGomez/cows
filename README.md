@@ -1,11 +1,11 @@
 # ABOUT THE DATASET
-
+\\
 As you can see on this folder, we have 2 folders: dataset_by_student and Pool, both contains the same number of images and the same number of targets. but they have different distributions and are splitted in different ways.
-
+\\
 
 
 ![eo](assets/target.jpg)
-
+\\\
 
 
 
@@ -25,7 +25,7 @@ As you can see on this folder, we have 2 folders: dataset_by_student and Pool, b
 |OtraColorada |It’s a little bit confuse to see the difference between Colorada and OtraColorada, but OtraColorada is slightly lightlier.|
 
 
-
+\\\\\
 
  **Observation:** 
  
